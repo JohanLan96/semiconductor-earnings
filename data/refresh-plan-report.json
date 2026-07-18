@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-17T04:24:22.698Z",
+  "generatedAt": "2026-07-18T04:14:08.382Z",
   "runs": [
     {
       "name": "full-yfinance-primary",
       "command": "node scripts/update-data.mjs",
-      "startedAt": "2026-07-17T04:24:09.577Z",
-      "endedAt": "2026-07-17T04:24:22.697Z",
+      "startedAt": "2026-07-18T04:13:56.222Z",
+      "endedAt": "2026-07-18T04:14:08.381Z",
       "exitCode": 0,
       "stdout": "Generated data/earnings-dashboard.json and data/earnings-dashboard.js using yfinance+official.\nWrote data/last-refresh-report.json.\nRefresh stats: {\"fullSuccess\":24,\"partialSuccess\":1,\"fallback\":0}",
       "stderr": "",
       "refreshReport": {
-        "generatedAt": "2026-07-17T04:24:22.688Z",
-        "asOfDate": "2026-07-17",
+        "generatedAt": "2026-07-18T04:14:08.372Z",
+        "asOfDate": "2026-07-18",
         "source": "yfinance+official",
         "mode": "full",
         "tickers": null,
@@ -195,7 +195,7 @@
             "primarySource": "yfinance",
             "hasMetrics": true,
             "lastReportedAt": "2026-06-30",
-            "nextReportDate": "2026-07-16",
+            "nextReportDate": "2026-10-15",
             "notes": [
               "yfinance: normalized from TWD to USD using FX baseline"
             ]
