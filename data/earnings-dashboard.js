@@ -1,7 +1,7 @@
 window.__EARNINGS_DASHBOARD_DATA__ = {
-  "generatedAt": "2026-07-18T04:14:08.372Z",
+  "generatedAt": "2026-07-19T04:34:58.048Z",
   "source": "yfinance+official",
-  "asOfDate": "2026-07-18",
+  "asOfDate": "2026-07-19",
   "fxRates": {
     "asOf": "2026-07-17 00:00 UTC",
     "base": "USD",
@@ -14,7 +14,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
     },
     "note": "汇率由 Frankfurter 最新中间价换算为 USD，用于跨市场口径统一展示；正式投研场景建议在披露日锁定当日汇率。",
     "source": "Frankfurter",
-    "fetchedAt": "2026-07-18T04:13:56.606Z"
+    "fetchedAt": "2026-07-19T04:34:45.598Z"
   },
   "companies": [
     {
@@ -65,7 +65,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:13:56.607Z"
+        "fetchedAt": "2026-07-19T04:34:45.598Z"
       },
       "providerMeta": {
         "primarySource": "yfinance",
@@ -79,7 +79,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-07-31",
           "2025-04-30"
         ],
-        "fetchedAt": "2026-07-18T04:13:56.607Z",
+        "fetchedAt": "2026-07-19T04:34:45.598Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -137,7 +137,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.370Z"
+        "fetchedAt": "2026-07-19T04:34:58.047Z"
       },
       "overrideMeta": {
         "used": true,
@@ -156,7 +156,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.370Z",
+        "fetchedAt": "2026-07-19T04:34:58.047Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-03-31"
@@ -210,7 +210,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.370Z"
+        "fetchedAt": "2026-07-19T04:34:58.047Z"
       },
       "overrideMeta": {
         "used": true,
@@ -230,7 +230,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-01-31",
           "2024-10-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.370Z",
+        "fetchedAt": "2026-07-19T04:34:58.047Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -284,7 +284,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.370Z"
+        "fetchedAt": "2026-07-19T04:34:58.047Z"
       },
       "overrideMeta": {
         "used": true,
@@ -303,7 +303,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.370Z",
+        "fetchedAt": "2026-07-19T04:34:58.047Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-03-31"
@@ -357,7 +357,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.370Z"
+        "fetchedAt": "2026-07-19T04:34:58.047Z"
       },
       "overrideMeta": {
         "used": true,
@@ -376,7 +376,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.370Z",
+        "fetchedAt": "2026-07-19T04:34:58.047Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-03-31"
@@ -430,7 +430,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.370Z"
+        "fetchedAt": "2026-07-19T04:34:58.047Z"
       },
       "overrideMeta": {
         "used": true,
@@ -449,7 +449,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-04-30",
           "2025-01-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.370Z",
+        "fetchedAt": "2026-07-19T04:34:58.047Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -503,7 +503,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.370Z"
+        "fetchedAt": "2026-07-19T04:34:58.047Z"
       },
       "overrideMeta": {
         "used": true,
@@ -521,7 +521,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-06-30",
           "2025-03-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.370Z",
+        "fetchedAt": "2026-07-19T04:34:58.047Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-03-31"
@@ -575,7 +575,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.370Z"
+        "fetchedAt": "2026-07-19T04:34:58.047Z"
       },
       "overrideMeta": {
         "used": true,
@@ -593,7 +593,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-06-30",
           "2025-03-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.370Z",
+        "fetchedAt": "2026-07-19T04:34:58.047Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-03-31"
@@ -647,7 +647,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.370Z"
+        "fetchedAt": "2026-07-19T04:34:58.047Z"
       },
       "overrideMeta": {
         "used": true,
@@ -666,7 +666,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.370Z",
+        "fetchedAt": "2026-07-19T04:34:58.047Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-03-31"
@@ -720,7 +720,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.371Z"
+        "fetchedAt": "2026-07-19T04:34:58.047Z"
       },
       "overrideMeta": {
         "used": true,
@@ -740,7 +740,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-01-31",
           "2024-10-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.371Z",
+        "fetchedAt": "2026-07-19T04:34:58.047Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -794,7 +794,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.371Z"
+        "fetchedAt": "2026-07-19T04:34:58.047Z"
       },
       "overrideMeta": {
         "used": true,
@@ -813,7 +813,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.371Z",
+        "fetchedAt": "2026-07-19T04:34:58.047Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-03-31"
@@ -867,7 +867,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.371Z"
+        "fetchedAt": "2026-07-19T04:34:58.047Z"
       },
       "overrideMeta": {
         "used": true,
@@ -885,7 +885,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-06-30",
           "2025-03-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.371Z",
+        "fetchedAt": "2026-07-19T04:34:58.047Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-03-31"
@@ -939,7 +939,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.371Z"
+        "fetchedAt": "2026-07-19T04:34:58.047Z"
       },
       "overrideMeta": {
         "used": true,
@@ -958,7 +958,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.371Z",
+        "fetchedAt": "2026-07-19T04:34:58.047Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-03-31"
@@ -1012,7 +1012,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.371Z"
+        "fetchedAt": "2026-07-19T04:34:58.047Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1030,7 +1030,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-06-30",
           "2025-03-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.371Z",
+        "fetchedAt": "2026-07-19T04:34:58.047Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-03-31"
@@ -1086,7 +1086,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
         "notes": [
           "yfinance: normalized from TWD to USD using FX baseline"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.371Z"
+        "fetchedAt": "2026-07-19T04:34:58.047Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1106,7 +1106,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.371Z",
+        "fetchedAt": "2026-07-19T04:34:58.047Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1160,7 +1160,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.371Z"
+        "fetchedAt": "2026-07-19T04:34:58.048Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1179,7 +1179,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.371Z",
+        "fetchedAt": "2026-07-19T04:34:58.048Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-03-31"
@@ -1235,7 +1235,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
         "notes": [
           "yfinance: normalized from TWD to USD using FX baseline"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.371Z"
+        "fetchedAt": "2026-07-19T04:34:58.048Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1254,7 +1254,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.371Z",
+        "fetchedAt": "2026-07-19T04:34:58.048Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-03-31"
@@ -1308,7 +1308,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.371Z"
+        "fetchedAt": "2026-07-19T04:34:58.048Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1327,7 +1327,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-06-30",
           "2025-03-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.371Z",
+        "fetchedAt": "2026-07-19T04:34:58.048Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1381,7 +1381,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.371Z"
+        "fetchedAt": "2026-07-19T04:34:58.048Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1400,7 +1400,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-04-30",
           "2025-01-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.371Z",
+        "fetchedAt": "2026-07-19T04:34:58.048Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -1454,7 +1454,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.371Z"
+        "fetchedAt": "2026-07-19T04:34:58.048Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1473,7 +1473,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.371Z",
+        "fetchedAt": "2026-07-19T04:34:58.048Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-03-31"
@@ -1527,7 +1527,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.371Z"
+        "fetchedAt": "2026-07-19T04:34:58.048Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1546,7 +1546,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.371Z",
+        "fetchedAt": "2026-07-19T04:34:58.048Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-03-31"
@@ -1597,7 +1597,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
         "notes": [
           "yfinance: revenue scale mismatch vs baseline"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.371Z"
+        "fetchedAt": "2026-07-19T04:34:58.048Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1615,7 +1615,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-08-31",
           "2025-05-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.371Z",
+        "fetchedAt": "2026-07-19T04:34:58.048Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-05-31"
@@ -1669,7 +1669,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.371Z"
+        "fetchedAt": "2026-07-19T04:34:58.048Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1689,7 +1689,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-01-31",
           "2024-10-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.371Z",
+        "fetchedAt": "2026-07-19T04:34:58.048Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -1743,7 +1743,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-07-18T04:14:08.372Z"
+        "fetchedAt": "2026-07-19T04:34:58.048Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1761,7 +1761,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-06-30",
           "2025-03-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.372Z",
+        "fetchedAt": "2026-07-19T04:34:58.048Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-03-31"
@@ -1817,7 +1817,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
         "notes": [
           "yfinance: normalized from TWD to USD using FX baseline"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.372Z"
+        "fetchedAt": "2026-07-19T04:34:58.048Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1835,7 +1835,7 @@ window.__EARNINGS_DASHBOARD_DATA__ = {
           "2025-06-30",
           "2025-03-31"
         ],
-        "fetchedAt": "2026-07-18T04:14:08.372Z",
+        "fetchedAt": "2026-07-19T04:34:58.048Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-03-31"
