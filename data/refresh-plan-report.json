@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-23T04:33:33.685Z",
+  "generatedAt": "2026-07-24T04:31:48.117Z",
   "runs": [
     {
       "name": "full-yfinance-primary",
       "command": "node scripts/update-data.mjs",
-      "startedAt": "2026-07-23T04:33:10.851Z",
-      "endedAt": "2026-07-23T04:33:33.684Z",
+      "startedAt": "2026-07-24T04:31:27.874Z",
+      "endedAt": "2026-07-24T04:31:48.116Z",
       "exitCode": 0,
       "stdout": "Generated data/earnings-dashboard.json and data/earnings-dashboard.js using yfinance+official.\nWrote data/last-refresh-report.json.\nRefresh stats: {\"fullSuccess\":24,\"partialSuccess\":1,\"fallback\":0}",
       "stderr": "",
       "refreshReport": {
-        "generatedAt": "2026-07-23T04:33:33.674Z",
-        "asOfDate": "2026-07-23",
+        "generatedAt": "2026-07-24T04:31:48.109Z",
+        "asOfDate": "2026-07-24",
         "source": "yfinance+official",
         "mode": "full",
         "tickers": null,
@@ -65,7 +65,7 @@
             "primarySource": "yfinance",
             "hasMetrics": true,
             "lastReportedAt": "2026-03-31",
-            "nextReportDate": "[]",
+            "nextReportDate": "2026-08-04",
             "notes": []
           },
           {
@@ -134,7 +134,7 @@
             "refreshStatus": "full",
             "primarySource": "yfinance",
             "hasMetrics": true,
-            "lastReportedAt": "2026-03-31",
+            "lastReportedAt": "2026-06-30",
             "nextReportDate": "2026-07-22",
             "notes": []
           },
@@ -145,7 +145,7 @@
             "primarySource": "yfinance",
             "hasMetrics": true,
             "lastReportedAt": "2026-04-30",
-            "nextReportDate": "[]",
+            "nextReportDate": "2026-08-19",
             "notes": []
           },
           {
@@ -165,7 +165,7 @@
             "primarySource": "yfinance",
             "hasMetrics": true,
             "lastReportedAt": "2026-03-31",
-            "nextReportDate": null,
+            "nextReportDate": "2026-08-06",
             "notes": []
           },
           {
@@ -175,7 +175,7 @@
             "primarySource": "yfinance",
             "hasMetrics": true,
             "lastReportedAt": "2026-03-31",
-            "nextReportDate": null,
+            "nextReportDate": "2026-07-28",
             "notes": []
           },
           {
@@ -184,8 +184,8 @@
             "refreshStatus": "full",
             "primarySource": "yfinance",
             "hasMetrics": true,
-            "lastReportedAt": "2026-03-31",
-            "nextReportDate": "[]",
+            "lastReportedAt": "2026-06-30",
+            "nextReportDate": "2026-07-23",
             "notes": []
           },
           {
@@ -269,7 +269,7 @@
             "primarySource": "yfinance",
             "hasMetrics": false,
             "lastReportedAt": "2026-05-31",
-            "nextReportDate": "[]",
+            "nextReportDate": "2026-09-23",
             "notes": [
               "yfinance: revenue scale mismatch vs baseline"
             ]
