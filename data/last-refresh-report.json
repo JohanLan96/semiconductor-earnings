@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-29T04:31:03.229Z",
-  "asOfDate": "2026-07-29",
+  "generatedAt": "2026-07-30T04:19:59.715Z",
+  "asOfDate": "2026-07-30",
   "source": "yfinance+official",
   "mode": "full",
   "tickers": null,
@@ -163,8 +163,8 @@
       "refreshStatus": "full",
       "primarySource": "yfinance",
       "hasMetrics": true,
-      "lastReportedAt": "2026-03-31",
-      "nextReportDate": "2026-07-28",
+      "lastReportedAt": "2026-06-30",
+      "nextReportDate": "2026-10-26",
       "notes": []
     },
     {
@@ -205,7 +205,7 @@
       "refreshStatus": "full",
       "primarySource": "yfinance",
       "hasMetrics": true,
-      "lastReportedAt": "2026-03-31",
+      "lastReportedAt": "2026-06-30",
       "nextReportDate": "2026-07-29",
       "notes": [
         "yfinance: normalized from TWD to USD using FX baseline"
@@ -248,7 +248,7 @@
       "primarySource": "yfinance",
       "hasMetrics": true,
       "lastReportedAt": "2026-03-31",
-      "nextReportDate": "2026-07-28",
+      "nextReportDate": "2026-10-28",
       "notes": []
     },
     {
@@ -279,7 +279,7 @@
       "refreshStatus": "full",
       "primarySource": "yfinance",
       "hasMetrics": true,
-      "lastReportedAt": "2026-03-31",
+      "lastReportedAt": "2026-06-30",
       "nextReportDate": "2026-10-26",
       "notes": []
     },
