@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-19T02:31:33.534Z",
+  "generatedAt": "2026-08-20T02:31:07.967Z",
   "source": "yfinance+official",
-  "asOfDate": "2026-08-19",
+  "asOfDate": "2026-08-20",
   "fxRates": {
-    "asOf": "2026-08-18 00:00 UTC",
+    "asOf": "2026-08-19 00:00 UTC",
     "base": "USD",
     "rates": {
       "USD": 1,
       "TWD": 0.031,
-      "KRW": 0.000709,
-      "JPY": 0.006262,
-      "EUR": 1.157595
+      "KRW": 0.000719,
+      "JPY": 0.006286,
+      "EUR": 1.160497
     },
     "note": "汇率由 Frankfurter 最新中间价换算为 USD，用于跨市场口径统一展示；正式投研场景建议在披露日锁定当日汇率。",
     "source": "Frankfurter",
-    "fetchedAt": "2026-08-19T02:31:19.875Z"
+    "fetchedAt": "2026-08-20T02:30:48.552Z"
   },
   "companies": [
     {
@@ -65,12 +65,12 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:19.876Z"
+        "fetchedAt": "2026-08-20T02:30:48.552Z"
       },
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "NVIDIA",
-        "marketCap": 5322322673049.93,
+        "marketCap": 5269520700866.7,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-04-30",
@@ -79,7 +79,7 @@
           "2025-07-31",
           "2025-04-30"
         ],
-        "fetchedAt": "2026-08-19T02:31:19.876Z",
+        "fetchedAt": "2026-08-20T02:30:48.552Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -137,7 +137,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.532Z"
+        "fetchedAt": "2026-08-20T02:31:07.965Z"
       },
       "overrideMeta": {
         "used": true,
@@ -146,7 +146,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "Advanced Micro Devices",
-        "marketCap": 790754609507.59,
+        "marketCap": 761419031010.08,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -156,7 +156,7 @@
           "2025-06-30",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.532Z",
+        "fetchedAt": "2026-08-20T02:31:07.965Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -210,7 +210,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.532Z"
+        "fetchedAt": "2026-08-20T02:31:07.965Z"
       },
       "overrideMeta": {
         "used": true,
@@ -219,7 +219,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "Broadcom",
-        "marketCap": 1807880475240,
+        "marketCap": 1724527722439.38,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-04-30",
@@ -229,7 +229,7 @@
           "2025-04-30",
           "2025-01-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.532Z",
+        "fetchedAt": "2026-08-20T02:31:07.965Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -283,7 +283,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.532Z"
+        "fetchedAt": "2026-08-20T02:31:07.965Z"
       },
       "overrideMeta": {
         "used": true,
@@ -292,7 +292,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "Qualcomm",
-        "marketCap": 168236974369.04,
+        "marketCap": 170043377995.18,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -303,7 +303,7 @@
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.532Z",
+        "fetchedAt": "2026-08-20T02:31:07.965Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -357,7 +357,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.532Z"
+        "fetchedAt": "2026-08-20T02:31:07.965Z"
       },
       "overrideMeta": {
         "used": true,
@@ -366,7 +366,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "Arm Holdings",
-        "marketCap": 270545405321.34,
+        "marketCap": 266294759283.33,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -376,7 +376,7 @@
           "2025-06-30",
           "2025-03-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.532Z",
+        "fetchedAt": "2026-08-20T02:31:07.965Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -430,7 +430,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.532Z"
+        "fetchedAt": "2026-08-20T02:31:07.966Z"
       },
       "overrideMeta": {
         "used": true,
@@ -439,7 +439,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "Marvell Technology",
-        "marketCap": 193869595368,
+        "marketCap": 212960369079.93,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-04-30",
@@ -449,7 +449,7 @@
           "2025-04-30",
           "2025-01-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.532Z",
+        "fetchedAt": "2026-08-20T02:31:07.966Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -503,7 +503,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.532Z"
+        "fetchedAt": "2026-08-20T02:31:07.966Z"
       },
       "overrideMeta": {
         "used": true,
@@ -512,7 +512,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "Monolithic Power Systems",
-        "marketCap": 65516467379.52,
+        "marketCap": 63892780739.87,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -521,7 +521,7 @@
           "2025-09-30",
           "2025-06-30"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.532Z",
+        "fetchedAt": "2026-08-20T02:31:07.966Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -575,7 +575,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.532Z"
+        "fetchedAt": "2026-08-20T02:31:07.966Z"
       },
       "overrideMeta": {
         "used": true,
@@ -584,7 +584,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "Intel",
-        "marketCap": 508033863937.34,
+        "marketCap": 487620058067.54,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -593,7 +593,7 @@
           "2025-09-30",
           "2025-06-30"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.532Z",
+        "fetchedAt": "2026-08-20T02:31:07.966Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -647,7 +647,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.532Z"
+        "fetchedAt": "2026-08-20T02:31:07.966Z"
       },
       "overrideMeta": {
         "used": true,
@@ -656,7 +656,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "Texas Instruments",
-        "marketCap": 248622541118.21,
+        "marketCap": 244248104768.74,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -666,7 +666,7 @@
           "2025-06-30",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.532Z",
+        "fetchedAt": "2026-08-20T02:31:07.966Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -720,7 +720,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.532Z"
+        "fetchedAt": "2026-08-20T02:31:07.966Z"
       },
       "overrideMeta": {
         "used": true,
@@ -729,7 +729,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "Analog Devices",
-        "marketCap": 183451594253.55,
+        "marketCap": 181810113307.11,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-04-30",
@@ -739,7 +739,7 @@
           "2025-04-30",
           "2025-01-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.532Z",
+        "fetchedAt": "2026-08-20T02:31:07.966Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -793,7 +793,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.533Z"
+        "fetchedAt": "2026-08-20T02:31:07.966Z"
       },
       "overrideMeta": {
         "used": true,
@@ -802,7 +802,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "On Semiconductor",
-        "marketCap": 30919136168.97,
+        "marketCap": 29813492307.03,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -812,7 +812,7 @@
           "2025-06-30",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.533Z",
+        "fetchedAt": "2026-08-20T02:31:07.966Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -866,7 +866,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.533Z"
+        "fetchedAt": "2026-08-20T02:31:07.966Z"
       },
       "overrideMeta": {
         "used": true,
@@ -875,7 +875,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "Microchip Technology",
-        "marketCap": 42457850874.99,
+        "marketCap": 41855110896.56,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -884,7 +884,7 @@
           "2025-09-30",
           "2025-06-30"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.533Z",
+        "fetchedAt": "2026-08-20T02:31:07.966Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -938,7 +938,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.533Z"
+        "fetchedAt": "2026-08-20T02:31:07.966Z"
       },
       "overrideMeta": {
         "used": true,
@@ -947,7 +947,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "NXP Semiconductors",
-        "marketCap": 57634642993.8,
+        "marketCap": 56994147684.84,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -957,7 +957,7 @@
           "2025-06-30",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.533Z",
+        "fetchedAt": "2026-08-20T02:31:07.966Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1011,7 +1011,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.533Z"
+        "fetchedAt": "2026-08-20T02:31:07.966Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1020,7 +1020,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "STMicroelectronics",
-        "marketCap": 46648543808.13,
+        "marketCap": 44988579790.62,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -1030,7 +1030,7 @@
           "2025-06-30",
           "2025-03-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.533Z",
+        "fetchedAt": "2026-08-20T02:31:07.966Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1086,7 +1086,7 @@
         "notes": [
           "yfinance: normalized from TWD to USD using FX baseline"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.533Z"
+        "fetchedAt": "2026-08-20T02:31:07.966Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1095,7 +1095,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "TSMC",
-        "marketCap": 2144140240707.77,
+        "marketCap": 2137294057023.73,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -1106,7 +1106,7 @@
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.533Z",
+        "fetchedAt": "2026-08-20T02:31:07.966Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1160,7 +1160,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.533Z"
+        "fetchedAt": "2026-08-20T02:31:07.966Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1169,7 +1169,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "GlobalFoundries",
-        "marketCap": 27382679829.13,
+        "marketCap": 26658328568.35,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -1179,7 +1179,7 @@
           "2025-06-30",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.533Z",
+        "fetchedAt": "2026-08-20T02:31:07.966Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1235,7 +1235,7 @@
         "notes": [
           "yfinance: normalized from TWD to USD using FX baseline"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.533Z"
+        "fetchedAt": "2026-08-20T02:31:07.966Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1244,7 +1244,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "United Microelectronics",
-        "marketCap": 46346149410.37,
+        "marketCap": 45443305574.32,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -1255,7 +1255,7 @@
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.533Z",
+        "fetchedAt": "2026-08-20T02:31:07.966Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1309,7 +1309,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.533Z"
+        "fetchedAt": "2026-08-20T02:31:07.966Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1318,7 +1318,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "ASML Holding",
-        "marketCap": 692524610498.05,
+        "marketCap": 672839485498.05,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -1328,7 +1328,7 @@
           "2025-06-30",
           "2025-03-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.533Z",
+        "fetchedAt": "2026-08-20T02:31:07.966Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1382,7 +1382,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.533Z"
+        "fetchedAt": "2026-08-20T02:31:07.966Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1391,7 +1391,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "Applied Materials",
-        "marketCap": 408357167200.54,
+        "marketCap": 393938861044.18,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-04-30",
@@ -1401,7 +1401,7 @@
           "2025-04-30",
           "2025-01-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.533Z",
+        "fetchedAt": "2026-08-20T02:31:07.966Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -1455,7 +1455,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.533Z"
+        "fetchedAt": "2026-08-20T02:31:07.966Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1464,7 +1464,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "Lam Research",
-        "marketCap": 410333199122.41,
+        "marketCap": 384368288372.41,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -1475,7 +1475,7 @@
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.533Z",
+        "fetchedAt": "2026-08-20T02:31:07.966Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1529,7 +1529,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.533Z"
+        "fetchedAt": "2026-08-20T02:31:07.967Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1538,7 +1538,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "KLA Corporation",
-        "marketCap": 254502239088.59,
+        "marketCap": 244677021634.58,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -1549,7 +1549,7 @@
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.533Z",
+        "fetchedAt": "2026-08-20T02:31:07.967Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1600,7 +1600,7 @@
         "notes": [
           "yfinance: revenue scale mismatch vs baseline"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.533Z"
+        "fetchedAt": "2026-08-20T02:31:07.967Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1609,7 +1609,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "Micron Technology",
-        "marketCap": 1062487911763.99,
+        "marketCap": 1058359946709.4,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-05-31",
@@ -1618,7 +1618,7 @@
           "2025-08-31",
           "2025-05-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.533Z",
+        "fetchedAt": "2026-08-20T02:31:07.967Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-05-31"
@@ -1672,7 +1672,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.533Z"
+        "fetchedAt": "2026-08-20T02:31:07.967Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1681,7 +1681,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "Synopsys",
-        "marketCap": 77436154524.47,
+        "marketCap": 76829162493.08,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-04-30",
@@ -1691,7 +1691,7 @@
           "2025-04-30",
           "2025-01-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.533Z",
+        "fetchedAt": "2026-08-20T02:31:07.967Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -1745,7 +1745,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-19T02:31:33.533Z"
+        "fetchedAt": "2026-08-20T02:31:07.967Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1754,7 +1754,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "Cadence",
-        "marketCap": 87167389334.44,
+        "marketCap": 86743290165.56,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -1763,7 +1763,7 @@
           "2025-09-30",
           "2025-06-30"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.533Z",
+        "fetchedAt": "2026-08-20T02:31:07.967Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1819,7 +1819,7 @@
         "notes": [
           "yfinance: normalized from TWD to USD using FX baseline"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.534Z"
+        "fetchedAt": "2026-08-20T02:31:07.967Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1828,7 +1828,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "ASE Group",
-        "marketCap": 94799456416.2,
+        "marketCap": 92846707374.45,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -1838,7 +1838,7 @@
           "2025-06-30",
           "2025-03-31"
         ],
-        "fetchedAt": "2026-08-19T02:31:33.534Z",
+        "fetchedAt": "2026-08-20T02:31:07.967Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
