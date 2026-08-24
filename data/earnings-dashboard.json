@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-23T02:37:17.475Z",
+  "generatedAt": "2026-08-24T02:37:40.842Z",
   "source": "yfinance+official",
-  "asOfDate": "2026-08-23",
+  "asOfDate": "2026-08-24",
   "fxRates": {
     "asOf": "2026-08-21 00:00 UTC",
     "base": "USD",
@@ -14,7 +14,7 @@
     },
     "note": "汇率由 Frankfurter 最新中间价换算为 USD，用于跨市场口径统一展示；正式投研场景建议在披露日锁定当日汇率。",
     "source": "Frankfurter",
-    "fetchedAt": "2026-08-23T02:36:58.135Z"
+    "fetchedAt": "2026-08-24T02:37:29.826Z"
   },
   "companies": [
     {
@@ -65,7 +65,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:36:58.136Z"
+        "fetchedAt": "2026-08-24T02:37:29.826Z"
       },
       "providerMeta": {
         "primarySource": "yfinance",
@@ -79,7 +79,7 @@
           "2025-07-31",
           "2025-04-30"
         ],
-        "fetchedAt": "2026-08-23T02:36:58.136Z",
+        "fetchedAt": "2026-08-24T02:37:29.826Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -137,7 +137,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.473Z"
+        "fetchedAt": "2026-08-24T02:37:40.840Z"
       },
       "overrideMeta": {
         "used": true,
@@ -156,7 +156,7 @@
           "2025-06-30",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.473Z",
+        "fetchedAt": "2026-08-24T02:37:40.840Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -210,7 +210,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.473Z"
+        "fetchedAt": "2026-08-24T02:37:40.840Z"
       },
       "overrideMeta": {
         "used": true,
@@ -229,7 +229,7 @@
           "2025-04-30",
           "2025-01-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.473Z",
+        "fetchedAt": "2026-08-24T02:37:40.840Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -283,7 +283,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.474Z"
+        "fetchedAt": "2026-08-24T02:37:40.840Z"
       },
       "overrideMeta": {
         "used": true,
@@ -303,7 +303,7 @@
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.474Z",
+        "fetchedAt": "2026-08-24T02:37:40.840Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -357,7 +357,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.474Z"
+        "fetchedAt": "2026-08-24T02:37:40.841Z"
       },
       "overrideMeta": {
         "used": true,
@@ -376,7 +376,7 @@
           "2025-06-30",
           "2025-03-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.474Z",
+        "fetchedAt": "2026-08-24T02:37:40.841Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -430,7 +430,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.474Z"
+        "fetchedAt": "2026-08-24T02:37:40.841Z"
       },
       "overrideMeta": {
         "used": true,
@@ -449,7 +449,7 @@
           "2025-04-30",
           "2025-01-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.474Z",
+        "fetchedAt": "2026-08-24T02:37:40.841Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -503,7 +503,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.474Z"
+        "fetchedAt": "2026-08-24T02:37:40.841Z"
       },
       "overrideMeta": {
         "used": true,
@@ -521,7 +521,7 @@
           "2025-09-30",
           "2025-06-30"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.474Z",
+        "fetchedAt": "2026-08-24T02:37:40.841Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -575,7 +575,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.474Z"
+        "fetchedAt": "2026-08-24T02:37:40.841Z"
       },
       "overrideMeta": {
         "used": true,
@@ -584,7 +584,7 @@
       "providerMeta": {
         "primarySource": "yfinance",
         "companyName": "Intel",
-        "marketCap": 473275183588.5,
+        "marketCap": 476119499335.15,
         "currency": "USD",
         "yfinanceIncomeColumns": [
           "2026-06-30",
@@ -593,7 +593,7 @@
           "2025-09-30",
           "2025-06-30"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.474Z",
+        "fetchedAt": "2026-08-24T02:37:40.841Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -647,7 +647,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.474Z"
+        "fetchedAt": "2026-08-24T02:37:40.841Z"
       },
       "overrideMeta": {
         "used": true,
@@ -666,7 +666,7 @@
           "2025-06-30",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.474Z",
+        "fetchedAt": "2026-08-24T02:37:40.841Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -720,7 +720,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.474Z"
+        "fetchedAt": "2026-08-24T02:37:40.841Z"
       },
       "overrideMeta": {
         "used": true,
@@ -739,7 +739,7 @@
           "2025-04-30",
           "2025-01-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.474Z",
+        "fetchedAt": "2026-08-24T02:37:40.841Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -793,7 +793,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.474Z"
+        "fetchedAt": "2026-08-24T02:37:40.841Z"
       },
       "overrideMeta": {
         "used": true,
@@ -812,7 +812,7 @@
           "2025-06-30",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.474Z",
+        "fetchedAt": "2026-08-24T02:37:40.841Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -866,7 +866,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.474Z"
+        "fetchedAt": "2026-08-24T02:37:40.841Z"
       },
       "overrideMeta": {
         "used": true,
@@ -884,7 +884,7 @@
           "2025-09-30",
           "2025-06-30"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.474Z",
+        "fetchedAt": "2026-08-24T02:37:40.841Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -938,7 +938,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.474Z"
+        "fetchedAt": "2026-08-24T02:37:40.841Z"
       },
       "overrideMeta": {
         "used": true,
@@ -957,7 +957,7 @@
           "2025-06-30",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.474Z",
+        "fetchedAt": "2026-08-24T02:37:40.841Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1011,7 +1011,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.474Z"
+        "fetchedAt": "2026-08-24T02:37:40.841Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1030,7 +1030,7 @@
           "2025-06-30",
           "2025-03-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.474Z",
+        "fetchedAt": "2026-08-24T02:37:40.841Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1086,7 +1086,7 @@
         "notes": [
           "yfinance: normalized from TWD to USD using FX baseline"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.474Z"
+        "fetchedAt": "2026-08-24T02:37:40.841Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1106,7 +1106,7 @@
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.474Z",
+        "fetchedAt": "2026-08-24T02:37:40.841Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1160,7 +1160,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.475Z"
+        "fetchedAt": "2026-08-24T02:37:40.841Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1179,7 +1179,7 @@
           "2025-06-30",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.475Z",
+        "fetchedAt": "2026-08-24T02:37:40.841Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1235,7 +1235,7 @@
         "notes": [
           "yfinance: normalized from TWD to USD using FX baseline"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.475Z"
+        "fetchedAt": "2026-08-24T02:37:40.842Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1255,7 +1255,7 @@
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.475Z",
+        "fetchedAt": "2026-08-24T02:37:40.842Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1309,7 +1309,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.475Z"
+        "fetchedAt": "2026-08-24T02:37:40.842Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1328,7 +1328,7 @@
           "2025-06-30",
           "2025-03-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.475Z",
+        "fetchedAt": "2026-08-24T02:37:40.842Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1382,7 +1382,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.475Z"
+        "fetchedAt": "2026-08-24T02:37:40.842Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1401,7 +1401,7 @@
           "2025-04-30",
           "2025-01-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.475Z",
+        "fetchedAt": "2026-08-24T02:37:40.842Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -1455,7 +1455,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.475Z"
+        "fetchedAt": "2026-08-24T02:37:40.842Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1475,7 +1475,7 @@
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.475Z",
+        "fetchedAt": "2026-08-24T02:37:40.842Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1529,7 +1529,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.475Z"
+        "fetchedAt": "2026-08-24T02:37:40.842Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1549,7 +1549,7 @@
           "2025-03-31",
           "2024-12-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.475Z",
+        "fetchedAt": "2026-08-24T02:37:40.842Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1600,7 +1600,7 @@
         "notes": [
           "yfinance: revenue scale mismatch vs baseline"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.475Z"
+        "fetchedAt": "2026-08-24T02:37:40.842Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1618,7 +1618,7 @@
           "2025-08-31",
           "2025-05-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.475Z",
+        "fetchedAt": "2026-08-24T02:37:40.842Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-05-31"
@@ -1672,7 +1672,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.475Z"
+        "fetchedAt": "2026-08-24T02:37:40.842Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1691,7 +1691,7 @@
           "2025-04-30",
           "2025-01-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.475Z",
+        "fetchedAt": "2026-08-24T02:37:40.842Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-04-30"
@@ -1745,7 +1745,7 @@
           "yfinance": true
         },
         "notes": [],
-        "fetchedAt": "2026-08-23T02:37:17.475Z"
+        "fetchedAt": "2026-08-24T02:37:40.842Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1763,7 +1763,7 @@
           "2025-09-30",
           "2025-06-30"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.475Z",
+        "fetchedAt": "2026-08-24T02:37:40.842Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
@@ -1819,7 +1819,7 @@
         "notes": [
           "yfinance: normalized from TWD to USD using FX baseline"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.475Z"
+        "fetchedAt": "2026-08-24T02:37:40.842Z"
       },
       "overrideMeta": {
         "used": true,
@@ -1838,7 +1838,7 @@
           "2025-06-30",
           "2025-03-31"
         ],
-        "fetchedAt": "2026-08-23T02:37:17.475Z",
+        "fetchedAt": "2026-08-24T02:37:40.842Z",
         "sector": null,
         "period": null,
         "latestStatementDate": "2026-06-30"
