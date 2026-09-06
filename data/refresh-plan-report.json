@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-05T05:45:19.455Z",
+  "generatedAt": "2026-09-06T05:57:04.763Z",
   "runs": [
     {
       "name": "full-yfinance-primary",
       "command": "node scripts/update-data.mjs",
-      "startedAt": "2026-09-05T05:45:08.427Z",
-      "endedAt": "2026-09-05T05:45:19.455Z",
+      "startedAt": "2026-09-06T05:56:51.298Z",
+      "endedAt": "2026-09-06T05:57:04.762Z",
       "exitCode": 0,
       "stdout": "Generated data/earnings-dashboard.json and data/earnings-dashboard.js using yfinance+official.\nWrote data/last-refresh-report.json.\nRefresh stats: {\"fullSuccess\":24,\"partialSuccess\":1,\"fallback\":0}",
       "stderr": "",
       "refreshReport": {
-        "generatedAt": "2026-09-05T05:45:19.446Z",
-        "asOfDate": "2026-09-05",
+        "generatedAt": "2026-09-06T05:57:04.753Z",
+        "asOfDate": "2026-09-06",
         "source": "yfinance+official",
         "mode": "full",
         "tickers": null,
@@ -54,7 +54,7 @@
             "refreshStatus": "full",
             "primarySource": "yfinance",
             "hasMetrics": true,
-            "lastReportedAt": "2026-04-30",
+            "lastReportedAt": "2026-07-31",
             "nextReportDate": "2026-11-17",
             "notes": []
           },
@@ -74,7 +74,7 @@
             "refreshStatus": "full",
             "primarySource": "yfinance",
             "hasMetrics": true,
-            "lastReportedAt": "2026-04-30",
+            "lastReportedAt": "2026-07-31",
             "nextReportDate": "2026-09-02",
             "notes": []
           },
@@ -104,7 +104,7 @@
             "refreshStatus": "full",
             "primarySource": "yfinance",
             "hasMetrics": true,
-            "lastReportedAt": "2026-04-30",
+            "lastReportedAt": "2026-07-31",
             "nextReportDate": "2026-12-01",
             "notes": []
           },
@@ -144,7 +144,7 @@
             "refreshStatus": "full",
             "primarySource": "yfinance",
             "hasMetrics": true,
-            "lastReportedAt": "2026-04-30",
+            "lastReportedAt": "2026-07-31",
             "nextReportDate": "2026-11-24",
             "notes": []
           },
@@ -238,7 +238,7 @@
             "refreshStatus": "full",
             "primarySource": "yfinance",
             "hasMetrics": true,
-            "lastReportedAt": "2026-04-30",
+            "lastReportedAt": "2026-07-31",
             "nextReportDate": "2026-11-12",
             "notes": []
           },
@@ -280,7 +280,7 @@
             "refreshStatus": "full",
             "primarySource": "yfinance",
             "hasMetrics": true,
-            "lastReportedAt": "2026-04-30",
+            "lastReportedAt": "2026-07-31",
             "nextReportDate": "2026-08-26",
             "notes": []
           },
