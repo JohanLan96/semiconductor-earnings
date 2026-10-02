@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T07:11:19.084Z",
-  "asOfDate": "2026-10-01",
+  "generatedAt": "2026-10-02T07:00:06.299Z",
+  "asOfDate": "2026-10-02",
   "source": "yfinance+official",
   "mode": "full",
   "tickers": null,
@@ -124,7 +124,7 @@
       "primarySource": "yfinance",
       "hasMetrics": true,
       "lastReportedAt": "2026-06-30",
-      "nextReportDate": "2026-10-27",
+      "nextReportDate": "2026-10-21",
       "notes": []
     },
     {
@@ -258,7 +258,7 @@
       "primarySource": "yfinance",
       "hasMetrics": false,
       "lastReportedAt": "2026-05-31",
-      "nextReportDate": "2026-09-30",
+      "nextReportDate": "2026-12-23",
       "notes": [
         "yfinance: revenue scale mismatch vs baseline"
       ]
