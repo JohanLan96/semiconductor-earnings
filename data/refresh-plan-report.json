@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-25T06:07:03.966Z",
+  "generatedAt": "2026-10-26T06:12:00.573Z",
   "runs": [
     {
       "name": "full-yfinance-primary",
       "command": "node scripts/update-data.mjs",
-      "startedAt": "2026-10-25T06:06:46.496Z",
-      "endedAt": "2026-10-25T06:07:03.965Z",
+      "startedAt": "2026-10-26T06:11:42.016Z",
+      "endedAt": "2026-10-26T06:12:00.572Z",
       "exitCode": 0,
       "stdout": "Generated data/earnings-dashboard.json and data/earnings-dashboard.js using yfinance+official.\nWrote data/last-refresh-report.json.\nRefresh stats: {\"fullSuccess\":24,\"partialSuccess\":1,\"fallback\":0}",
       "stderr": "",
       "refreshReport": {
-        "generatedAt": "2026-10-25T06:07:03.956Z",
-        "asOfDate": "2026-10-25",
+        "generatedAt": "2026-10-26T06:12:00.564Z",
+        "asOfDate": "2026-10-26",
         "source": "yfinance+official",
         "mode": "full",
         "tickers": null,
@@ -134,7 +134,7 @@
             "refreshStatus": "full",
             "primarySource": "yfinance",
             "hasMetrics": true,
-            "lastReportedAt": "2026-06-30",
+            "lastReportedAt": "2026-09-30",
             "nextReportDate": "2026-10-21",
             "notes": []
           },
@@ -194,7 +194,7 @@
             "refreshStatus": "full",
             "primarySource": "yfinance",
             "hasMetrics": true,
-            "lastReportedAt": "2026-06-30",
+            "lastReportedAt": "2026-09-30",
             "nextReportDate": "2027-01-14",
             "notes": [
               "yfinance: normalized from TWD to USD using FX baseline"
@@ -228,7 +228,7 @@
             "refreshStatus": "full",
             "primarySource": "yfinance",
             "hasMetrics": true,
-            "lastReportedAt": "2026-06-30",
+            "lastReportedAt": "2026-09-30",
             "nextReportDate": "2026-10-14",
             "notes": []
           },
@@ -248,7 +248,7 @@
             "refreshStatus": "full",
             "primarySource": "yfinance",
             "hasMetrics": true,
-            "lastReportedAt": "2026-06-30",
+            "lastReportedAt": "2026-09-30",
             "nextReportDate": "2026-10-21",
             "notes": []
           },
