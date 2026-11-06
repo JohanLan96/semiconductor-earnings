@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T07:54:44.294Z",
-  "asOfDate": "2026-11-05",
+  "generatedAt": "2026-11-06T07:55:19.750Z",
+  "asOfDate": "2026-11-06",
   "source": "yfinance+official",
   "mode": "full",
   "tickers": null,
@@ -53,7 +53,7 @@
       "refreshStatus": "full",
       "primarySource": "yfinance",
       "hasMetrics": true,
-      "lastReportedAt": "2026-06-30",
+      "lastReportedAt": "2026-09-30",
       "nextReportDate": "2027-02-02",
       "notes": []
     },
@@ -73,8 +73,8 @@
       "refreshStatus": "full",
       "primarySource": "yfinance",
       "hasMetrics": true,
-      "lastReportedAt": "2026-06-30",
-      "nextReportDate": "2026-11-04",
+      "lastReportedAt": "2026-09-30",
+      "nextReportDate": "2027-02-03",
       "notes": []
     },
     {
@@ -83,8 +83,8 @@
       "refreshStatus": "full",
       "primarySource": "yfinance",
       "hasMetrics": true,
-      "lastReportedAt": "2026-06-30",
-      "nextReportDate": "2026-11-04",
+      "lastReportedAt": "2026-09-30",
+      "nextReportDate": "2027-02-03",
       "notes": []
     },
     {
@@ -195,7 +195,7 @@
       "refreshStatus": "full",
       "primarySource": "yfinance",
       "hasMetrics": true,
-      "lastReportedAt": "2026-06-30",
+      "lastReportedAt": "2026-09-30",
       "nextReportDate": "2026-11-04",
       "notes": []
     },
@@ -270,7 +270,7 @@
       "primarySource": "yfinance",
       "hasMetrics": true,
       "lastReportedAt": "2026-07-31",
-      "nextReportDate": "2026-12-09",
+      "nextReportDate": "2026-12-08",
       "notes": []
     },
     {
