@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T07:55:56.336Z",
-  "asOfDate": "2026-11-13",
+  "generatedAt": "2026-11-14T07:36:23.418Z",
+  "asOfDate": "2026-11-14",
   "source": "yfinance+official",
   "mode": "full",
   "tickers": null,
@@ -227,8 +227,8 @@
       "refreshStatus": "full",
       "primarySource": "yfinance",
       "hasMetrics": true,
-      "lastReportedAt": "2026-07-31",
-      "nextReportDate": "2026-11-12",
+      "lastReportedAt": "2026-10-31",
+      "nextReportDate": "2027-02-11",
       "notes": []
     },
     {
