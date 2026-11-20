@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T08:47:07.448Z",
-  "asOfDate": "2026-11-19",
+  "generatedAt": "2026-11-20T08:31:51.104Z",
+  "asOfDate": "2026-11-20",
   "source": "yfinance+official",
   "mode": "full",
   "tickers": null,
@@ -258,7 +258,7 @@
       "primarySource": "yfinance",
       "hasMetrics": false,
       "lastReportedAt": "2026-08-31",
-      "nextReportDate": "2026-12-23",
+      "nextReportDate": "2026-12-17",
       "notes": [
         "yfinance: revenue scale mismatch vs baseline"
       ]
